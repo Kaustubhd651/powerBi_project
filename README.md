@@ -1,2 +1,2 @@
 # powerBi_project
-Real-time project for data analysis of company sales in different country
+Real-time data analysis and visualization for company sales in  different countries
